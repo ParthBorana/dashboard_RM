@@ -1,0 +1,146 @@
+h2{
+  text-align: center;
+}
+.sub-heading{
+  padding-bottom: 4%;
+}
+
+.custom-nav{
+
+  border-radius: 20px;
+  height: 80px;
+}
+.custom-search{
+  border-radius: 50px 0 0 50px ;
+  border:0;
+  margin-top: 0px;
+  margin-bottom: 10px;
+
+}
+.nav-item{
+  font-family: 'Outfit';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 25px;
+text-align: center;
+color: black;
+padding-right: 20px;
+}
+
+.nav-link{
+    color: black;
+}
+.nav-link:hover{
+    background-color: #EF251F;
+}
+
+.input-group{
+  margin-left: 300px;
+  padding-bottom: 50px;
+}
+.custom-sear{
+  border-radius: 20px;
+}
+
+.login-button{
+  color: white;
+  background-color: #EF251F;
+  border-radius: 0px 10px 10px 0px;
+}
+
+.signup-button{
+  border-color: #EF251F;
+border-radius: 10px 0px 0px 10px;
+}
+#intro{
+  padding: 10% 15%
+}
+.intro{
+  background-image: url("images/docback.jpg");
+}
+
+#about{
+  padding: 10% 15%;
+
+}
+.about{
+  text-align: center;
+  font-family: 'Outfit';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 38px;
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #000000;
+}
+
+#workimg{
+  padding: 10% 15%;
+
+}
+.work-img{
+  width: 60%;
+  margin-left: 294px;
+  padding-bottom: 7%;
+}
+#doctors{
+  padding: 10% 15%;
+
+}
+.exp-img{
+  margin-right: 689px;
+  width: 100%;
+}
+.value-img{
+  width: 100%;
+}
+.location-search{
+  width: 15%;
+  margin-left:
+}
+#location{
+  text-align: center;
+  border: solid;
+  padding: 3% 1%;
+  border-radius: 40px;
+  border-color: grey;
+  margin-left:auto;
+  margin-right: auto;
+  width: 80%;
+
+}
+.location-bar{
+  padding-right: 20px;
+
+}
+.loc-class{
+
+
+}
+.a{
+  border: solid;
+  margin: 40px 80px;
+  border-radius: 30px;
+  height: 650px;
+}
+
+textarea{
+  margin-left: 50px;
+  padding-left: 20px;
+  align: right;
+  border: solid;
+  border-color: red;
+  border-radius: 10px;
+  margin-bottom: 16px;
+}
+
+.form-image{
+  height: 300px;
+  width: 400px;
+}
+table{
+  margin-top: 60px;
+}
