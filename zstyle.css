@@ -1,19 +1,20 @@
-.bell{
-left: 350px;
+.a{
+  border: solid;
+  margin: 40px 80px;
+  border-radius: 30px;
+  height: 450px;
 }
-.custom-search{
-  border-radius: 50px 0 0 50px ;
-  border:0;
-  margin-top: 0px;
-  margin-bottom: 10px;
+
+textarea{
+  margin-left: 100px;
+  padding-left: 50px;
+  align: right;
+  border: solid;
   border-color: red;
+  border-radius: 10px;
 }
-  .custom-sear{
-    border-radius: 20px;
-  }
-  .input-group{
-    margin-left: 300px;
-  }
-  #navbarToggleExternalContent{
-    color: #000;
-  }
+
+.form-image{
+  height: 300px;
+  width: 400px;
+}
